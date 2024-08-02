@@ -7,3 +7,4 @@ How to run
 1. Firstly, make sure that you enter your data (pay attention to the path where it is stored): an excel with grades and mails list, the docx templates.
 2. Run the two .py files in the Docx folder in order (generate docx; convert to PDF).
 3. Run the main.py in the HITMail folder and then it can send the emails in seconds!
+(To see this in Chinese version in README0.txt)
