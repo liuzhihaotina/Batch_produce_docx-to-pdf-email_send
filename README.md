@@ -1,6 +1,6 @@
 Written on the front
 1. Code function: One of the school summer camp pre-promotion and exemption volunteer activities--according to the list of grades and the emails from one excel file and the two docx templates, batch generate docx files and convert them to pdf, and then send emails with a specific email account with one click.
-2. Code modification: Some improvements have been made according to the existing code, and I am now sending it to github. I hope it will be helpful to you.
+2. Code modification: Some improvements have been made according to the existing code, and I am now sending it to github. Hope it will be helpful to you.
 3. Note: The document notes, etc. are all in Chinese. Hopefully you can read them.
 
 How to run (To see this in Chinese version in README0.txt)
