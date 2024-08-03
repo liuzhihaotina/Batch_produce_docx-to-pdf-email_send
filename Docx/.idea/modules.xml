@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Docx.iml" filepath="$PROJECT_DIR$/.idea/Docx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../HITMail-20230727/HITMail/.idea/HITMail.iml" filepath="$PROJECT_DIR$/../../HITMail-20230727/HITMail/.idea/HITMail.iml" />
+    </modules>
+  </component>
+</project>
