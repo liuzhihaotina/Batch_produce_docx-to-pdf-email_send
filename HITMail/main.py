@@ -93,13 +93,13 @@ class SendEmail(object):
 if __name__ == '__main__':
 
     # smtp_server = "smtp.hit.edu.cn"
-    # smtp_user = "xxx@hit.edu.cn"  # 发送邮件的账号
+    # smtp_user = "abcdef@hit.edu.cn"  # 发送邮件的账号
     # smtp_passwd = "xxxxxxxx"          # 发送账号的客户端授权码
-    # sender = Address("xxx", "fansiyue", "hit.edu.cn")
+    # sender = Address("张三", "abcdef", "hit.edu.cn")
     smtp_server = "smtp.163.com"
-    smtp_user = "xxx@163.com"  # 发送邮件的账号
+    smtp_user = "123456@163.com"  # 发送邮件的账号
     smtp_passwd = "xxxxxxxxx"          # 发送账号的客户端授权码
-    sender = Address("xxx", "xxx", "163.com")
+    sender = Address("李四", "123456", "163.com")
 
     # majors = ['电气', '控制', '动力']
     # 手动更改专业学科名称
